@@ -2,7 +2,7 @@
 
 ![MCP for Production Automation](assets/MCP%20for%20Production%20Automation.webp)
 
-A simple weather service built with [FastMCP](https://github.com/robertchase/fastmcp), demonstrating tools, resources, and prompt implementations for a modular command platform.
+A simple weather service built with [FastMCP](https://github.com/modelcontextprotocol/python-sdk), demonstrating tools, resources, and prompt implementations for a modular command platform.
 
 ## Features
 
